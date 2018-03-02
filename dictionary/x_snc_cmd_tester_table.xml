@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="tester Table" max_length="40" name="x_snc_cmd_tester_table" type="collection"/>
+</database>
